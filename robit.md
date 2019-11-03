@@ -34,7 +34,7 @@ La placa incluye:
 
 ### Extensión Robit"
 
-Instalamos la extensión "Robit" que incluye otras extensiones como son neopixel, 7 segmentos display y sonarbit
+Instalamos la extensión "Robit" que incluye otras extensiones como son neopixel, 7 segmentos display, IR y sonarbit
 
 ![](./images/Extension-robit.png)
 
@@ -63,13 +63,30 @@ Los activamos al pulsar el botón A
 
 [Proyecto](https://makecode.microbit.org/_Cb7Tcv8uF73F)
 
-Extension: robit
+
+### Coloreando la distancia
+
+En función de la distancia mostramos colores: verde alejado y rojo muy cercano
+
+![Coloreando-distancia.png](./images/Coloreando-distancia.png)
+
+
+[Proyecto](https://makecode.microbit.org/_AFg4WF4t6CV5)
+
+
+### Oyendo la distancia
+
+[Proyecto](https://makecode.microbit.org/_LiDiTp7gK2w9)
+
+### Extension: [robit](https://github.com/lzty634158/yahboom_mbit_en)
 
 ![blocks](https://i.imgur.com/8WwA6Bp.png)
 
 ## Recursos
 
 [micro:bit y mbot en JuegosRobotica](https://juegosrobotica.es/podcast-034/)
+
+[Documentación micro-log sobre car](https://microbit.micro-log.com/coche-microbit-primeros-pasos/)
 
 [Documentacion de elecfreaks](https://www.elecfreaks.com/learn-en/microbitKit/robit_smart_car/index.html)
 
