@@ -5,7 +5,7 @@
 
 [Producto microlog](https://www.micro-log.com/microbit/3283-coche-microbit.html) [Producto original](https://category.yahboom.net/products/bitbot)
 
-[Librerías](https://github.com/lzty634158/yahboom_mbit_en)
+[Librería](http://www.micro-log.com/librerias.hex) [Extensión para makecode](https://github.com/lzty634158/yahboom_mbit_en)
 
 
 
