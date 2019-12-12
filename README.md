@@ -10,6 +10,12 @@ José Antonio Vacas @javacasm
 
 
 
-## [Coche micro:bit](car.md)
+## [Coche micro:bit](./car.md)
 
 ![coche-microbit.jpg](./images/coche-microbit.jpg)
+
+
+
+## [Smart home con micro:bit](./smartHome.md)
+
+![smart home](https://www.micro-log.com/5502-thickbox_default/microbit-smart-home-kit.jpg)
